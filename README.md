@@ -389,10 +389,11 @@ It also serves as a practical demonstration of integrating Python desktop develo
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Arsalan Surme**  
 Developer of TripSphere
 
-Add your GitHub profile, portfolio, or contact details here.
+Linkedin Arsalansurme 
+mail:arsalasnsurme@gmail.com.
 
 ---
 
